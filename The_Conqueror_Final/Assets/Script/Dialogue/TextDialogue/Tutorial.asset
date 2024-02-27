@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 165ee5b47f2007040a604aac93776577, type: 3}
+  m_Name: Tutorial
+  m_EditorClassIdentifier: 
+  dialogue:
+  - 'Down here you can see the shop menu.
+
+    You can interpet all the symbols.'
+  - On the left you see a coins Icon. The number next to it tells you how much gold
+    you have left. So use it wisely!
+  - Next to the coins is your arsenal of armymen.
+  - Throughout your conquest you will be unlocking more units but for now you only
+    have the highlighted ones.
+  - You can recruit as many units as you want, but putting them too close to eachother
+    will cause friendly fire.
+  - 'On the right you see a potion icon. This tells you how much health your enemy
+    has. '
+  - The amount of health equates to how many units you need to get into the enemy
+    castle.
+  - 'The units always come from the left and go to the right!
+
+'
+  - There is no way to "save" the battlefield. This is an active warzone. That's
+    all for now!
+  - The way to understanding is by experiencing some real battle. Good luck in your
+    quest, my CONQUEROR
